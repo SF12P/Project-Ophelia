@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.1",
+  "min_version": "1.1",
+  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.1/Ophelia.1.1.exe",
+  "changelog": "Major update: tabbed sidebar, memory fixes, plugin marketplace, tray icon, mobile server improvements",
+  "password_hash": "baac08467418019144a606a599ee6dc32100cec41431a55be6ca75ac7e76e7a3",
+  "force_update": true
+}
