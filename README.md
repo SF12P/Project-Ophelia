@@ -1,3 +1,2 @@
-# ophelia-updates
-Project Ophelia | Also The Updater For Ophelia
-I Was Lazy Leave Me Alone 😔
+# Project-Ophelia
+Project Ophelia |Simple Offline Ai Chat System With A Few Extra Items
