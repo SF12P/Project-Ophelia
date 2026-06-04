@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.10",
-  "min_version": "1.10",
-  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.10/Ophelia.1.10.exe",
+  "latest_version": "1.11",
+  "min_version": "1.11",
+  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.11/Ophelia.1.11.exe",
   "changelog": "Major update: tabbed sidebar, memory fixes, plugin marketplace, tray icon, AppData install",
-  "password_hash": "1697fb8f09189264af4dd30f35247438036de0383dc6ce5916e0d12512e9e756",
+  "password_hash": "a437c2a99589ea1842d9283a91205cebc0ceb43e809caeb054e4f7123ff156ef",
   "force_update": true
 }
