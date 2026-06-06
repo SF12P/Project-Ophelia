@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.40",
+  "latest_version": "1.41",
   "min_version": "1.0",
-  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.40/Ophelia.1.40.exe",
-  "changelog": "1.40: Upgrade.py Issue, Fix Gui Dupe Display",
-  "password_hash": "58bf1fb4540f3b4810f4012c1878d3ab17c0b2b08c682b849071319343422c77",
+  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.41/Ophelia.1.41.exe",
+  "changelog": "1.41: Typing Indicator, Self-Reflection Memory, Critical Updater Fixes, Terminal Close Fix, Skin Editor Fix",
+  "password_hash": "c03b007f9a137a3ae39108b627ae0ced20d6c4d32a5dfce9e058fbceb5dc7127",
   "force_update": false
 }
