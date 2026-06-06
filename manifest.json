@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.30",
+  "latest_version": "1.40",
   "min_version": "1.0",
-  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.30/Ophelia.1.30.exe",
-  "changelog": "1.30: Life-Like mode, proactive messaging, live typing preview, copy/redo buttons, plugin infrastructure, Roleplay Hub, 16 premade characters, persona system, Tavern AI import, model manager, SDXL Turbo image gen, Ollama performance config, GUI redesign, toast notifications, Discord RPC, installer fixes",
-  "password_hash": "765f4b7992f32b537d1e54615466661a90b42d6a0e17128bbb32a06cc3037dc4",
+  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.40/Ophelia.1.40.exe",
+  "changelog": "1.40: Upgrade.py Issue, Fix Gui Dupe Display",
+  "password_hash": "58bf1fb4540f3b4810f4012c1878d3ab17c0b2b08c682b849071319343422c77",
   "force_update": false
 }
