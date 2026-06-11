@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.41",
+  "latest_version": "1.50",
   "min_version": "1.0",
-  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.41/Ophelia.1.41.exe",
-  "changelog": "1.41: Typing Indicator, Self-Reflection Memory, Critical Updater Fixes, Terminal Close Fix, Skin Editor Fix",
-  "password_hash": "c03b007f9a137a3ae39108b627ae0ced20d6c4d32a5dfce9e058fbceb5dc7127",
+  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.50/Ophelia.1.50.exe",
+  "changelog": "1.50: Typing indicator, self-reflection memory, Life-Like generation lock, offline mode fix, background plugin rewrite, updater improvements",
+  "password_hash": "7b5acbbee6abba1868bd8ab4e6ea851af2d82d49c71048fd08a72f2df8504f74",
   "force_update": false
 }
