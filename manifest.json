@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.50",
+  "latest_version": "1.51",
   "min_version": "1.0",
-  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.50/Ophelia.1.50.exe",
-  "changelog": "1.50: Typing indicator, self-reflection memory, Life-Like generation lock, offline mode fix, background plugin rewrite, updater improvements",
-  "password_hash": "7b5acbbee6abba1868bd8ab4e6ea851af2d82d49c71048fd08a72f2df8504f74",
+  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.51/Ophelia.1.51.exe",
+  "changelog": "1.51: Updater Issue Fix",
+  "password_hash": "56fd8724db8b8062fba82ea3b9d98196ef485dd24ce17327d03b2af9f5f5e791",
   "force_update": false
 }
