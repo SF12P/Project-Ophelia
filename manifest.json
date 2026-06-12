@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.51",
+  "latest_version": "1.60",
   "min_version": "1.0",
-  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.51/Ophelia.1.51.exe",
-  "changelog": "1.51: Updater Issue Fix",
-  "password_hash": "56fd8724db8b8062fba82ea3b9d98196ef485dd24ce17327d03b2af9f5f5e791",
+  "download_url": "https://github.com/SF12P/ophelia-updates/releases/download/v1.60/Ophelia_1.60_Setup.exe",
+  "changelog": "1.60: NSIS installer, Roleplay Hub rewrite (chat history, model picker, edit/regen, star ratings, {{char}}/{{user}} substitution), plugin marketplace enforcement",
+  "password_hash": "ca9ab4aa07e896c93eda9f958de680ab716a4fafdf5feb54bfc036bfb6785797",
   "force_update": false
 }
